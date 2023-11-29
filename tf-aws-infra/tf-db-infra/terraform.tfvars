@@ -1,0 +1,5 @@
+db-name                  = "mydb"
+instance-class           = "db.t3.micro"
+db-sg-name               = "three-tier-db-sg"
+db-subnet-grp-name       = "three-tier-db-subnet-grp"
+app-db-sg-name           = "three-tier-app-db"
